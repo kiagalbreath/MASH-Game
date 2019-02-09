@@ -15,7 +15,7 @@ body {
 /* Heading Styles */
 h1 {
   font-size: 100px;
-  color: #f5360c;
+  color: #f50c4a;
   text-align: center;
 }
 
@@ -30,9 +30,9 @@ h1 {
 /* Submit Button, Columns, Questions, and Inputs */
 .button-submit {
   background: transparent;
-  border: 3px solid #f5360c;
+  border: 3px solid #f50c4a;
   border-radius: 6px;
-  color: #f5360c;
+  color: #f50c4a;
   cursor: pointer; 
   display: block;
   font-size: 20px;
@@ -65,7 +65,7 @@ h1 {
 .choice-bucket input {
   border: 0;
   border-radius: 6px;
-  color: #f5360c;
+  color: #0cf5b7;
   font-size: 18px;
   margin: 15px 4%;
   outline: 0;
