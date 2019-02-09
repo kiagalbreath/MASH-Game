@@ -1,7 +1,7 @@
 /* Body styling */
 body {
   background: #36dcb0;
-  color: #fff;
+  color: #36dcb0;
   font-family: Helvetica, Arial;
   font-size: 27px;
   font-weight: 300;
@@ -32,7 +32,7 @@ h1 {
   background: transparent;
   border: 3px solid #f5360c;
   border-radius: 6px;
-  color: #fff;
+  color: #f5360c;
   cursor: pointer; 
   display: block;
   font-size: 20px;
