@@ -3,7 +3,7 @@ body {
   background-image: url("bgd.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  background-color: #fff;
+  background-color: #081F38;
   font-family: Helvetica, Arial;
   font-size: 27px;
   font-weight: 300;
@@ -57,12 +57,14 @@ h1 {
   margin: 0;
   padding: 0;
   width: 15%;
+  color: #081F38;
 }
 
 .choice-bucket label {
   font-size: 12px;
   line-height: 13px;
   margin: 15px 4%;
+  color: #081F38;
 }
 
 .choice-bucket input {
