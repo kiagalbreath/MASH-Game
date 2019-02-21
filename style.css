@@ -17,7 +17,7 @@ body {
 /* Heading Styles */
 h1 {
   font-size: 100px;
-  color: #d1645c;
+  color: #A73D2F;
   text-align: center;
 }
 
@@ -26,16 +26,16 @@ h1 {
 .description {
   text-align: center;
   margin: 80px auto 40px;
-  color: #d1645c;
+  color: #A73D2F;
 }
 
 
 /* Submit Button, Columns, Questions, and Inputs */
 .button-submit {
   background: transparent;
-  border: 3px solid #d1645c;
+  border: 3px solid #A73D2F;
   border-radius: 6px;
-  color: #d1645c;
+  color: #A73D2F;
   cursor: pointer; 
   display: block;
   font-size: 20px;
@@ -49,7 +49,7 @@ h1 {
   display: inline-block;
   margin-bottom: 40px;
   width: 100%;
-  color: #d1645c;
+  color: #A73D2F;
 }
 
 .choice-bucket {
@@ -58,20 +58,20 @@ h1 {
   margin: 0;
   padding: 0;
   width: 25%;
-  color: #d1645c;
+  color: #A73D2F;
 }
 
 .choice-bucket label {
   font-size: 12px;
   line-height: 13px;
   margin: 15px 4%;
-  color: #d1645c;
+  color: #A73D2F;
 }
 
 .choice-bucket input {
   border: 0;
   border-radius: 6px;
-  color: #d1645c;
+  color: #A73D2F;
   font-size: 18px;
   margin: 15px 4%;
   outline: 0;
@@ -82,11 +82,11 @@ h1 {
 
 .choice-bucket label ~ input {
   margin-top: 0;
-  color: #d1645c;
+  color: #A73D2F;
 }
 
 .highlight {
-  color: #d1645c;
+  color: #A73D2F;
   font-size: 18px;
   line-height: 24px;
   margin-left: 30px;
