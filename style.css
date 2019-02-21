@@ -1,7 +1,9 @@
 /* Body styling */
 body {
-  background: #36dcb0;
-  color: #fff;
+  background-image: url("bgd.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #fff;
   font-family: Helvetica, Arial;
   font-size: 27px;
   font-weight: 300;
