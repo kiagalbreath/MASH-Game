@@ -108,10 +108,12 @@ h1 {
   max-width: 760px;
   margin: auto;
   padding: 10px 0;
+  color: #081F38;
 }
 
 #answers p span {
   font-weight: bold;
+  color: #A73D2F;
 }
 
 
